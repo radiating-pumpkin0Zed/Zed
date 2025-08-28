@@ -34,7 +34,7 @@
 
 <!-- Coding Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=radiating-pumpkin0Zed&theme=tokyonight&hide_border=true&ring=ff4757&fire=ff4757" height="150">
+  <img src="https://streak-stats.demolab.com?user=radiating-pumpkin0Zed&theme=tokyonight&hide_border=true&ring=ff4757&fire=ff4757" height="150" alt="Looks like the image failed to load but it was nothing special anyways">
 </p>
 
 <!-- Graph -->
