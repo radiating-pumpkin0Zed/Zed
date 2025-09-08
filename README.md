@@ -67,6 +67,11 @@
 
 </details>
 
+---
+
+[![roadmap.sh](https://roadmap.sh/card/tall/68641b0a1ed6bc62a2e38691?variant=dark&roadmaps=javascript%2Cpython%2Cgit-github%2Cfull-stack)](https://roadmap.sh)
+
+---
 <!-- Villain Log (Anime Quote Section) -->
 <p align="center">
   <img src="https://i.ibb.co/pvy3Wgf/aot-eye.gif" width="180"><br>
