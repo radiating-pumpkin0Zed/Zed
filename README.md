@@ -1,91 +1,157 @@
-<!-- ====== VILLAIN MODE ACTIVATED ====== -->
-<p align="center">
-  <img src="https://i.ibb.co/8jF4cPL/eren-banner.gif" alt="Attack on Titan Banner" width="100%">
-</p>
+<!-- ============================================================ -->
+<!--              SYSTEM BOOT... INITIATING PROFILE              -->
+<!-- ============================================================ -->
 
-<h1 align="center">  Zeddd  </h1>
-<pre align="center">"One day, I am gonna grow wings...." – Radiohead.</pre>
+<div align="center">
 
+<!-- Capsule Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:00d9ff&height=200&section=header&text=ZEDD&fontSize=80&fontColor=00ff41&fontAlignY=38&desc=[ %20SYSTEM%20ONLINE%20]&descSize=18&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
 
-<!-- Villain Status -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-⚡%20In%20Progress-ff4757?style=for-the-badge&logo=github&logoColor=white">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/radiating-pumpkin0Zed/radiating-pumpkin0Zed?style=for-the-badge&color=9b59b6&logo=hackaday">
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Initializing+dev+environment...;%3E+Loading+caffeine+and+chaos...;%3E+Building+things+that+matter."/>
 
+<br/>
 
-<!-- Divider -->
-<p align="center">⚔️────────────────────────────⚔️</p>
-<!-- Intro -->
-<h3 align="center">
-💻 <b>Dark Mode Enthusiast</b> | ⚡ <b>Full-Stack Chaos Architect</b> | 🎭 <b>Villain-in-Chief</b><br>
-</h3>
+<!-- Status Badges -->
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-00ff41?style=for-the-badge&logo=statuspage&logoColor=black)
+![Mode](https://img.shields.io/badge/MODE-DARK_ONLY-0d0d0d?style=for-the-badge&logo=nightscout&logoColor=00ff41)
+![Discord](https://img.shields.io/badge/DISCORD-zedd__2891-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
---- 
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radiating-pumpkin0Zed&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4757&icon_color=ff4757" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiating-pumpkin0Zed&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59b6" height="150">
-</p>
+</div>
 
 ---
 
-<!-- Coding Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=radiating-pumpkin0Zed&theme=tokyonight&hide_border=true&ring=ff4757&fire=ff4757" height="150" alt="Looks like the image failed to load but it was nothing special anyways">
-</p>
+```
+ ██████╗ ██╗   ██╗     ███████╗███████╗██████╗ ██████╗
+ ██╔══██╗╚██╗ ██╔╝     ╚════██║██╔════╝██╔══██╗██╔══██╗
+ ██████╔╝ ╚████╔╝          ██╔╝█████╗  ██║  ██║██║  ██║
+ ██╔══██╗  ╚██╔╝          ██╔╝ ██╔══╝  ██║  ██║██║  ██║
+ ██████╔╝   ██║           ██║  ███████╗██████╔╝██████╔╝
+ ╚═════╝    ╚═╝           ╚═╝  ╚══════╝╚═════╝ ╚═════╝
+                   [ ONE DAY I AM GONNA GROW WINGS ]
+```
 
-<!-- Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radiating-pumpkin0Zed&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=ff4757&point=9b59b6" width="95%">
-</p>
+---
+
+<!-- About Section -->
+## `> whoami`
+
+```yaml
+name        : Zedd
+alias       : radiating-pumpkin0Zed
+status      : Building. Breaking. Repeating.
+interests   : [Python, Digital Art, Blender, Web Dev, Dark Themes]
+philosophy  : "One day, I am gonna grow wings...." — Radiohead
+discord     : zedd_2891
+```
 
 ---
 
 <!-- Tech Stack -->
+## `> cat tech_stack.txt`
 
-### 🛠 Tech Arsenal
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+**[ LANGUAGES ]**
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,java&theme=dark)](https://skillicons.dev)
+
+**[ TOOLS & ENVIRONMENT ]**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,blender&theme=dark)](https://skillicons.dev)
+
+**[ LEARNING ]**
+
+[![My Skills](https://skillicons.dev/icons?i=rust,kotlin,go,react&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-<details>
-  <summary>A little bit of extra info</summary>
+<!-- Projects -->
+## `> ls ./projects`
 
-  - 🐍 Python experiments that broke my brain  
-  - ⚡ Random JS projects that kinda work  
-  - 🎵 My playlists while coding: 90% lo-fi, 10% crying noises  
-  - 🚀 Future dream project: build something that doesn’t error out immediately  
+<div align="center">
+
+| PROJECT | DESCRIPTION | STACK | STATUS |
+|--------|-------------|-------|--------|
+| 🖥️ **[Pixel Forge](https://github.com/radiating-pumpkin0Zed)** | Retro Win98-style CRT image converter with scanlines, noise & glitch effects | `Python` `Pillow` `tkinter` `numpy` | 🟡 In Progress |
+| 🌐 **More incoming...** | Web & mobile projects cooking | `JS` `React` | 🔴 Planned |
+
+</div>
+
+> *"Future dream project: build something that doesn't error out immediately."*
+
+---
+
+<!-- Goals / Roadmap -->
+## `> cat 2026_roadmap.log`
+
+```
+[Q1] ████████░░░░░░░░░░░░  Python + Web Dev Foundations
+[Q2] ░░░░░░░░░░░░░░░░░░░░  Mobile Dev + DSA
+[Q3] ░░░░░░░░░░░░░░░░░░░░  Freelancing + First clients
+[Q4] ░░░░░░░░░░░░░░░░░░░░  Passive Income + Animation
+```
+
+| AREA | TARGET |
+|------|--------|
+| 💻 Web Dev | Full-stack capable by Q2 |
+| 📱 Mobile Dev | Kotlin / React Native by Q3 |
+| 🧠 DSA | Consistent problem solving |
+| 🎨 Digital Art & Blender | Ongoing — never stopping |
+| 💰 Freelancing | First paid project by Q3 |
+| 🦀 Systems | Rust / Go exploration |
+
+---
+
+<!-- GitHub Stats -->
+## `> run stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=radiating-pumpkin0Zed&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d9ff&text_color=ffffff&ring_color=00ff41" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiating-pumpkin0Zed&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" height="160"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=radiating-pumpkin0Zed&theme=radical&hide_border=true&background=0d0d0d&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888" height="160"/>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radiating-pumpkin0Zed&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00d9ff&point=ff00ff&hide_border=true" width="100%"/>
+
+---
+
+<!-- Fun section -->
+<details>
+<summary><code>> decrypt /logs/zedd_personal.enc</code></summary>
+<br/>
+
+```
+🐍  Python experiments that broke my brain (and rebuilt it)
+⚡  Random JS projects that kinda work — I'll take it
+🎵  Coding playlist: 90% lo-fi, 10% crying noises
+🎨  Digital art at 2AM hits different
+🦾  Dark mode isn't a preference. It's a lifestyle.
+☕  Runs on caffeine and chaos, as promised
+```
 
 </details>
 
 ---
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68641b0a1ed6bc62a2e38691?variant=dark&roadmaps=javascript%2Cpython%2Cgit-github%2Cfull-stack)](https://roadmap.sh)
+<!-- Footer -->
+<div align="center">
 
----
-<!-- Villain Log (Anime Quote Section) -->
-<p align="center">
-  <img src="https://i.ibb.co/pvy3Wgf/aot-eye.gif" width="180"><br>
-  <em>“Someone once told me the world runs on hope…  
-  I run on caffeine and chaos.”</em>
-</p>
+<img src="https://komarev.com/ghpvc/?username=radiating-pumpkin0Zed&color=00ff41&style=for-the-badge&label=VISITORS" />
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radiating-pumpkin0Zed&color=ff4757&style=for-the-badge" alt="profile views">
-</p
+<br/><br/>
 
-<!-- Fun Anime Quote -->
-<p align="center">
-  <img src="https://i.ibb.co/59Fxqnr/anime-wave.gif" width="200"><br>
-  <em></em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:00ff41,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
