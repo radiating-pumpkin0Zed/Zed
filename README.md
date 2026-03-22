@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:00d9ff&height=200&section=header&text=ZEDD&fontSize=80&fontColor=00ff41&fontAlignY=38&desc=[ %20SYSTEM%20ONLINE%20]&descSize=18&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,100:00ff41&height=150&section=header&text=ZEDD&fontSize=90&fontColor=00ff41&desc=SYSTEM%20ONLINE&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Initializing+dev+environment...;%3E+Loading+caffeine+and+chaos...;%3E+Building+things+that+matter."/>
@@ -22,13 +22,14 @@
 ---
 
 ```
- ██████╗ ██╗   ██╗     ███████╗███████╗██████╗ ██████╗
- ██╔══██╗╚██╗ ██╔╝     ╚════██║██╔════╝██╔══██╗██╔══██╗
- ██████╔╝ ╚████╔╝          ██╔╝█████╗  ██║  ██║██║  ██║
- ██╔══██╗  ╚██╔╝          ██╔╝ ██╔══╝  ██║  ██║██║  ██║
- ██████╔╝   ██║           ██║  ███████╗██████╔╝██████╔╝
- ╚═════╝    ╚═╝           ╚═╝  ╚══════╝╚═════╝ ╚═════╝
-                   [ ONE DAY I AM GONNA GROW WINGS ]
+███████╗███████╗██████╗ ██████╗ 
+╚════██║██╔════╝██╔══██╗██╔══██╗
+    ██╔╝█████╗  ██║  ██║██║  ██║
+   ██╔╝ ██╔══╝  ██║  ██║██║  ██║
+   ██║  ███████╗██████╔╝██████╔╝
+   ╚═╝  ╚══════╝╚═════╝ ╚═════╝ 
+
+    [ ONE DAY I AM GONNA GROW WINGS ]
 ```
 
 ---
@@ -75,8 +76,12 @@ discord     : zedd_2891
 
 | PROJECT | DESCRIPTION | STACK | STATUS |
 |--------|-------------|-------|--------|
-| 🖥️ **[Pixel Forge](https://github.com/radiating-pumpkin0Zed)** | Retro Win98-style CRT image converter with scanlines, noise & glitch effects | `Python` `Pillow` `tkinter` `numpy` | 🟡 In Progress |
-| 🌐 **More incoming...** | Web & mobile projects cooking | `JS` `React` | 🔴 Planned |
+| 🖥️ **[Pixel Forge](https://github.com/radiating-pumpkin0Zed/pixel-forge)** | Retro Win98-style CRT image converter with scanlines, noise & glitch effects | `Python` `Pillow` `tkinter` `numpy` | 🟡 In Progress |
+| 🌩️ **[Cyberpunk Weather App](https://github.com/radiating-pumpkin0Zed/cyberpunk-weather-app)** | Weather app with a cyberpunk aesthetic UI | `JS` `HTML` `CSS` | 🟡 In Progress |
+| 💀 **[Sentinel Terminal](https://github.com/radiating-pumpkin0Zed/sentinel-terminal)** | Terminal-based tool — dark, minimal, dangerous | `Python` | 🟡 In Progress |
+| 💬 **[Realtime Chat App](https://github.com/radiating-pumpkin0Zed/realtime-chat-app)** | Live chat application with real-time messaging | `JS` | 🟡 In Progress |
+| 🌌 **[Pixel Ecosystem](https://github.com/radiating-pumpkin0Zed/pixel-ecosystem)** | Pixel-based simulation / creative experiment | `Python` | 🟡 In Progress |
+| 🖤 **[Vent Space](https://github.com/radiating-pumpkin0Zed/vent-space)** | A space to write, rant, and breathe | `HTML` `CSS` `JS` | 🟡 In Progress |
 
 </div>
 
